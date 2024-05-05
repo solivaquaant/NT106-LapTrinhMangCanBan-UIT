@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|c:\\users\\thait\\onedrive\\desktop\\uit2022-2024\\hocky_4\\laptrinhmangcanban\\thuchanh\\lab3\\lab3_server\\lab3_bai4_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|solutionrelative:lab3_bai4_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|c:\\users\\thait\\onedrive\\desktop\\uit2022-2024\\hocky_4\\laptrinhmangcanban\\thuchanh\\lab3\\lab3_server\\lab3_bai4_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|solutionrelative:lab3_bai4_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|c:\\users\\thait\\onedrive\\desktop\\uit2022-2024\\hocky_4\\laptrinhmangcanban\\thuchanh\\lab3\\lab3_server\\lab3_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|solutionrelative:lab3_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|c:\\users\\thait\\onedrive\\desktop\\uit2022-2024\\hocky_4\\laptrinhmangcanban\\thuchanh\\lab3\\lab3_server\\lab3_bai2_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|solutionrelative:lab3_bai2_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|c:\\users\\thait\\onedrive\\desktop\\uit2022-2024\\hocky_4\\laptrinhmangcanban\\thuchanh\\lab3\\lab3_server\\lab3_bai2_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|solutionrelative:lab3_bai2_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|c:\\users\\thait\\onedrive\\desktop\\uit2022-2024\\hocky_4\\laptrinhmangcanban\\thuchanh\\lab3\\lab3_server\\lab3_bai1_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|solutionrelative:lab3_bai1_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|c:\\users\\thait\\onedrive\\desktop\\uit2022-2024\\hocky_4\\laptrinhmangcanban\\thuchanh\\lab3\\lab3_server\\lab3_bai1_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D34F4B3-1B21-4500-848E-96A0D4427BFA}|Lab3_Server.csproj|solutionrelative:lab3_bai1_s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab3_Bai2_S.cs",
+              "DocumentMoniker": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai2_S.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai2_S.cs",
+              "ToolTip": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai2_S.cs",
+              "RelativeToolTip": "Lab3_Bai2_S.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:52:32.519Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab3_S.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_S.cs",
+              "RelativeDocumentMoniker": "Lab3_S.cs",
+              "ToolTip": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_S.cs [Design]",
+              "RelativeToolTip": "Lab3_S.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:39:32.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3_Bai4_S.cs",
+              "DocumentMoniker": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai4_S.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai4_S.cs",
+              "ToolTip": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai4_S.cs",
+              "RelativeToolTip": "Lab3_Bai4_S.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAhwFcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:25:56.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab3_Bai4_S.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai4_S.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai4_S.cs",
+              "ToolTip": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai4_S.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai4_S.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:25:47.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab3_Bai1_S.cs",
+              "DocumentMoniker": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai1_S.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai1_S.cs",
+              "ToolTip": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai1_S.cs",
+              "RelativeToolTip": "Lab3_Bai1_S.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:54:51.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab3_Bai1_S.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai1_S.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai1_S.cs",
+              "ToolTip": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai1_S.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai1_S.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:54:26.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab3_Bai2_S.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai2_S.cs",
+              "RelativeDocumentMoniker": "Lab3_Bai2_S.cs",
+              "ToolTip": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab3\\Lab3_Server\\Lab3_Bai2_S.cs [Design]",
+              "RelativeToolTip": "Lab3_Bai2_S.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:52:32.493Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

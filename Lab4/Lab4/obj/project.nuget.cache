@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYilOdXxOK1HLY7AAy8zYyOLLQcv+67fAdBhpsXErxDiW0M7NT3h+tN9gAVqVcUa8k4CqDtRzI/zXQFzISGYbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\thucHanh\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thait\\.nuget\\packages\\microsoft.web.webview2\\1.0.2478.35\\microsoft.web.webview2.1.0.2478.35.nupkg.sha512"
+  ],
+  "logs": []
+}
