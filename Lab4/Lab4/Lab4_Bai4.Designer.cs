@@ -80,9 +80,9 @@
             webView.AllowExternalDrop = true;
             webView.CreationProperties = null;
             webView.DefaultBackgroundColor = Color.White;
-            webView.Location = new Point(78, 132);
+            webView.Location = new Point(21, 88);
             webView.Name = "webView";
-            webView.Size = new Size(960, 367);
+            webView.Size = new Size(1083, 512);
             webView.Source = new Uri("https://www.microsoft.com", UriKind.Absolute);
             webView.TabIndex = 12;
             webView.ZoomFactor = 1D;
