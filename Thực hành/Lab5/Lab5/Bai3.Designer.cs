@@ -165,6 +165,7 @@
             // 
             richTextBoxAttach.Location = new Point(157, 479);
             richTextBoxAttach.Name = "richTextBoxAttach";
+            richTextBoxAttach.ReadOnly = true;
             richTextBoxAttach.Size = new Size(677, 120);
             richTextBoxAttach.TabIndex = 23;
             richTextBoxAttach.Text = "";

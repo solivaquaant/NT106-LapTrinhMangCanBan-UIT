@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bkw5uX2637aW3PDPHwt2LeO51dBxlnWI+C4OoSSXYXrJu6uAG12yuFWNs1mZGBtSNj6IjPbezwI275H7JJ5rGQ==",
+  "dgSpecHash": "tflugfkKiaVCmp5FZS4kM7orxVn/fQ+zfLIdTym9ymcxRbP0PJuj1vfxvrPo1snlPoY6zeeXonmo0H0dkrKD2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\LabsOnGit\\Lab5\\Lab5\\Lab5.csproj",
+  "projectFilePath": "C:\\Users\\thait\\OneDrive\\Desktop\\UIT2022-2024\\HOCKY_4\\LapTrinhMangCanBan\\Thực hành\\Lab5\\Lab5\\Lab5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thait\\.nuget\\packages\\ae.net.mail\\1.7.10\\ae.net.mail.1.7.10.nupkg.sha512",
     "C:\\Users\\thait\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",

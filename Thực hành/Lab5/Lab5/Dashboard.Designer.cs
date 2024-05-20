@@ -87,7 +87,7 @@
             label1.Name = "label1";
             label1.Size = new Size(78, 35);
             label1.TabIndex = 4;
-            label1.Text = "LAB 4";
+            label1.Text = "LAB 5";
             // 
             // Dashboard
             // 

@@ -93,7 +93,7 @@
             textBoxMail.Font = new Font("Segoe UI", 10F);
             textBoxMail.Location = new Point(192, 16);
             textBoxMail.Name = "textBoxMail";
-            textBoxMail.Size = new Size(284, 30);
+            textBoxMail.Size = new Size(338, 30);
             textBoxMail.TabIndex = 24;
             textBoxMail.TextChanged += textBoxMail_TextChanged;
             // 
@@ -101,8 +101,8 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Showcard Gothic", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label6.ForeColor = Color.Salmon;
-            label6.Location = new Point(1, 16);
+            label6.ForeColor = Color.Black;
+            label6.Location = new Point(16, 16);
             label6.Name = "label6";
             label6.Size = new Size(99, 35);
             label6.TabIndex = 37;
@@ -163,10 +163,10 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label4.Font = new Font("Segoe UI", 12F);
             label4.Location = new Point(353, 34);
             label4.Name = "label4";
-            label4.Size = new Size(77, 28);
+            label4.Size = new Size(70, 28);
             label4.TabIndex = 18;
             label4.Text = "Recent";
             // 
@@ -182,10 +182,10 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Font = new Font("Segoe UI", 12F);
             label2.Location = new Point(26, 34);
             label2.Name = "label2";
-            label2.Size = new Size(59, 28);
+            label2.Size = new Size(54, 28);
             label2.TabIndex = 16;
             label2.Text = "Total";
             // 
@@ -222,6 +222,7 @@
             // 
             richTextBoxAttach.Location = new Point(166, 376);
             richTextBoxAttach.Name = "richTextBoxAttach";
+            richTextBoxAttach.ReadOnly = true;
             richTextBoxAttach.Size = new Size(957, 120);
             richTextBoxAttach.TabIndex = 32;
             richTextBoxAttach.Text = "";
