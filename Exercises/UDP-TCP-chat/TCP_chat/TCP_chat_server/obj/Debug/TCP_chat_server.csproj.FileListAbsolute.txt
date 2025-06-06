@@ -1,0 +1,10 @@
+C:\Users\thait\OneDrive\Desktop\UIT2022-2024\HOCKY_4\Thu2-Lập trình mạng căn bản\TCP_chat\TCP_chat_server\obj\Debug\TCP_chat_server.csproj.AssemblyReference.cache
+C:\Users\thait\OneDrive\Desktop\UIT2022-2024\HOCKY_4\Thu2-Lập trình mạng căn bản\TCP_chat\TCP_chat_server\obj\Debug\TCP_chat_server.Properties.Resources.resources
+C:\Users\thait\OneDrive\Desktop\UIT2022-2024\HOCKY_4\Thu2-Lập trình mạng căn bản\TCP_chat\TCP_chat_server\obj\Debug\TCP_chat_server.Form1.resources
+C:\Users\thait\OneDrive\Desktop\UIT2022-2024\HOCKY_4\Thu2-Lập trình mạng căn bản\TCP_chat\TCP_chat_server\obj\Debug\TCP_chat_server.csproj.GenerateResource.cache
+C:\Users\thait\OneDrive\Desktop\UIT2022-2024\HOCKY_4\Thu2-Lập trình mạng căn bản\TCP_chat\TCP_chat_server\obj\Debug\TCP_chat_server.csproj.CoreCompileInputs.cache
+C:\Users\thait\OneDrive\Desktop\UIT2022-2024\HOCKY_4\Thu2-Lập trình mạng căn bản\TCP_chat\TCP_chat_server\bin\Debug\TCP_chat_server.exe.config
+C:\Users\thait\OneDrive\Desktop\UIT2022-2024\HOCKY_4\Thu2-Lập trình mạng căn bản\TCP_chat\TCP_chat_server\bin\Debug\TCP_chat_server.exe
+C:\Users\thait\OneDrive\Desktop\UIT2022-2024\HOCKY_4\Thu2-Lập trình mạng căn bản\TCP_chat\TCP_chat_server\bin\Debug\TCP_chat_server.pdb
+C:\Users\thait\OneDrive\Desktop\UIT2022-2024\HOCKY_4\Thu2-Lập trình mạng căn bản\TCP_chat\TCP_chat_server\obj\Debug\TCP_chat_server.exe
+C:\Users\thait\OneDrive\Desktop\UIT2022-2024\HOCKY_4\Thu2-Lập trình mạng căn bản\TCP_chat\TCP_chat_server\obj\Debug\TCP_chat_server.pdb
